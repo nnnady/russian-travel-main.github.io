@@ -1,0 +1,22 @@
+.places__website {
+    display: flex;
+    flex-direction: column;
+    gap: 12px 0;
+    align-self: end;
+}
+
+@media (max-width: 768px) {
+    .places__website {
+        padding-right: calc(16px - 16 * ((100vw - 320px) / 448));
+        padding-left: calc(16px - 16 * ((100vw - 320px) / 448));
+
+
+    }
+}
+
+@media (max-width: 320px) {
+    .places__website {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}

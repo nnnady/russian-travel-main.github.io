@@ -1,0 +1,11 @@
+.header__logo {
+  max-width: 100%;
+  max-height: inherit;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .header__logo {
+        max-height: calc(42px + 10 * ((100vw - 320px) / 448));
+    }
+}
