@@ -20,4 +20,4 @@
 - **JavaScript** — для реализации интерактивных элементов.
 
 ## Ссылка на проект:
-[https://github.com/Dozerator/russian-travel](https://dozerator.github.io/russian-travel-main/)
+[https://nnnady.github.io/russian-travel-main.github.io/](https://nnnady.github.io/russian-travel-main.github.io/)
